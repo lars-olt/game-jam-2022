@@ -4,6 +4,8 @@ The official repository for the 2022 dev comp
 
 **Theme: Flight**
 
+Start date: Monday 16
+
 ## Details:
 - 1 month long
 - Weekly check-ins 
