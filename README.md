@@ -9,6 +9,9 @@ Start date: Monday 16
 **Please complete this google form to confirm your position in the game jam:**
 https://forms.gle/QphNkhoa4M9aMcgN6
 
+**If you are ever stuck throughout the dev process, no worries! Ask us any questions on Discord:**
+https://discord.gg/f3JmhgC8
+
 ## Details:
 - 1 month long
 - Weekly check-ins (simply email eagleprogrammingclub@gmail.com a photo of your code once per week)
