@@ -1,16 +1,18 @@
-# game-jam-2022
+# Game-Jam-2022
 
-The official repository for the 2022 dev comp
+The official repository for the 2022 game jam
 
 **Theme: Flight**
 
 Start date: Monday 16
 
+**Please complete this google form to confirm your position in the game jam:**
+https://forms.gle/QphNkhoa4M9aMcgN6
+
 ## Details:
 - 1 month long
-- Weekly check-ins 
-- Minimum effort requirement
-- Extra credit as prize(s)
+- Weekly check-ins (simply email eagleprogrammingclub@gmail.com a photo of your code once per week)
+- Extra credit and Twitch swag as prize(s)
 
 ## Judging
 ![image](https://user-images.githubusercontent.com/67205657/158932958-f985d93a-1e1f-42fe-b92b-42e48b37e16b.png)
