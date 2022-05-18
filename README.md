@@ -4,7 +4,7 @@ The official repository for the 2022 game jam
 
 **Theme: Flight**
 
-Start date: Monday May 16th
+Start date: Wednesday May 18th
 
 End date: Friday June 10th
 
