@@ -8,6 +8,9 @@ Start date: Wednesday May 18th
 
 End date: Friday June 10th
 
+**Sign up here:**
+https://itch.io/jam/cleveland-game-jam-2022
+
 **Please complete this google form to confirm your position in the game jam:**
 https://forms.gle/QphNkhoa4M9aMcgN6
 
